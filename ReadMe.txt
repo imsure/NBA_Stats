@@ -1,5 +1,9 @@
-The NBA_stats_clean contains code (Python and R), dataset and documentations
+The NBA_stats contains code (Python and R), dataset and documentations
 for the SEIS785 course project "Stories behind the NBA Stats".
+
+The project is for exploring what are the key factors that make a team
+a NBA Championship by analyzing and visualizing NBA stats from 1980 to 2009
+and building models to predicate 2013 NBA Championship.
 
 Before running, make sure that you have a unix-like shell, Python and R installed correctly.
 

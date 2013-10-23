@@ -5,6 +5,11 @@ The project is for exploring what are the key factors that make a team
 a NBA Championship by analyzing and visualizing NBA stats from 1980 to 2009
 and building models to predicate 2013 NBA Championship.
 
+You can find details in both:
+https://github.com/imsure/NBA_Stats/blob/master/project_presentation_seis785.pdf
+and
+https://github.com/imsure/NBA_Stats/blob/master/project-report.pdf
+
 Before running, make sure that you have a unix-like shell, Python and R installed correctly.
 
 To run:
